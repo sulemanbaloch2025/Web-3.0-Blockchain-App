@@ -1,4 +1,4 @@
-# Web-3.0-Blockchain-App-
+# Web-3.0-Blockchain-App
 
 
 This is a project that I designed for my independent study : Web Development 
